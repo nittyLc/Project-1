@@ -251,3 +251,7 @@ form .btn.btn2.btn3{
 .copyright i{
     color: red;
 }
+/* ------------css for small screens----------------*/
+@media only screen and (max-width: 600px){
+
+}
