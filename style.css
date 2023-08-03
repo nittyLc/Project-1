@@ -17,6 +17,7 @@ html{
     background-image: url('images/background.png2.jpg');
     background-size: cover;
     background-position: center;
+    background-attachment: scroll;
 }
 .container{
     padding: 10px 10%;
@@ -250,8 +251,4 @@ form .btn.btn2.btn3{
 }
 .copyright i{
     color: red;
-}
-/* ------------css for small screens----------------*/
-@media only screen and (max-width: 600px){
-
-}
+}  
